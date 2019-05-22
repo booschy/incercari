@@ -9,8 +9,8 @@ public class Main {
         System.out.println(c);
 
         calculator.afiseazaSuma(calculator);
-       // System.out.println(calculator.afiseazaSuma(calculator));
-       // System.out.println(calculator.toString());
+       //System.out.println(calculator.afiseazaSuma(calculator));
+        System.out.println(calculator.toString());
        // System.out.println(calculator instanceof Calculator);
 
         //Mercedes mercedes = new Mercedes("45ddd","benzina");
